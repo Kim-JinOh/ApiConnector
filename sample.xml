@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <option_data idx="1">
+        <goodsno>1</goodsno>
+        <opt1>red2</opt1>
+        <opt2>902</opt2>
+        <price>17800</price>
+        <consumer>0</consumer>
+        <supply>0</supply>
+        <reserve>120</reserve>
+        <stock>100</stock>
+        <opt1img><![CDATA[]]></opt1img>
+        <opt1icon><![CDATA[]]></opt1icon>
+        <opt2icon><![CDATA[]]></opt2icon>
+        <link>1</link>
+        <go_sort>0</go_sort>
+    </option_data>
+    <option_data idx="2">
+        <goodsno>1</goodsno>
+        <opt1>red3</opt1>
+        <opt2>1003</opt2>
+        <price>17800</price>
+        <consumer>0</consumer>
+        <supply>0</supply>
+        <reserve>120</reserve>
+        <stock>100</stock>
+        <opt1img><![CDATA[]]></opt1img>
+        <opt1icon><![CDATA[]]></opt1icon>
+        <opt2icon><![CDATA[]]></opt2icon>
+        <link>0</link>
+        <go_sort>0</go_sort>
+    </option_data>
+    <option_data idx="3">
+        <goodsno>1</goodsno>
+        <opt1>pink4</opt1>
+        <opt2>904</opt2>
+        <price>18000</price>
+        <consumer>0</consumer>
+        <supply>0</supply>
+        <reserve>130</reserve>
+        <stock>100</stock>
+        <opt1img><![CDATA[]]></opt1img>
+        <opt1icon><![CDATA[]]></opt1icon>
+        <opt2icon><![CDATA[]]></opt2icon>
+        <link>0</link>
+        <go_sort>0</go_sort>
+    </option_data>
+    <option_data idx="4">
+        <goodsno>1</goodsno>
+        <opt1>pink5</opt1>
+        <opt2>1005</opt2>
+        <price>18000</price>
+        <consumer>0</consumer>
+        <supply>0</supply>
+        <reserve>130</reserve>
+        <stock>100</stock>
+        <opt1img><![CDATA[]]></opt1img>
+        <opt1icon><![CDATA[]]></opt1icon>
+        <opt2icon><![CDATA[]]></opt2icon>
+        <link>0</link>
+        <go_sort>0</go_sort>
+    </option_data>
+    <option_data idx="5">
+        <goodsno>1</goodsno>
+        <opt1><![CDATA[sky blue99996]]></opt1>
+        <opt2>10099996</opt2>
+        <price>16009</price>
+        <consumer>990</consumer>
+        <supply>990</supply>
+        <reserve>119</reserve>
+        <stock>109</stock>
+        <opt1img><![CDATA[]]></opt1img>
+        <opt1icon><![CDATA[]]></opt1icon>
+        <opt2icon><![CDATA[]]></opt2icon>
+        <link>0</link>
+        <go_is_deleted>0</go_is_deleted>
+        <go_is_display>1</go_is_display>
+        <go_sort>0</go_sort>
+    </option_data>
+    <option_data idx="6">
+        <goodsno>1</goodsno>
+        <opt1><![CDATA[sky blue99997수정]]></opt1>
+        <opt2>9099997</opt2>
+        <price>16009</price>
+        <consumer>990</consumer>
+        <supply>990</supply>
+        <reserve>119</reserve>
+        <stock>109</stock>
+        <opt1img><![CDATA[]]></opt1img>
+        <opt1icon><![CDATA[]]></opt1icon>
+        <opt2icon><![CDATA[]]></opt2icon>
+        <link>0</link>
+        <go_is_deleted>0</go_is_deleted>
+        <go_is_display>1</go_is_display>
+        <go_sort>0</go_sort>
+    </option_data>
+</data>

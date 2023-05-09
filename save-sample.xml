@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <goods_data idx="1">
+        <goods_category><![CDATA[001]]></goods_category>
+        <goodsnm><![CDATA[[고도] 상품등록 테스트]]></goodsnm>
+        <meta_title>0</meta_title>
+        <goodscd><![CDATA[]]></goodscd>
+        <origin><![CDATA[대한민국]]></origin>
+        <maker>godosoft</maker>
+        <brandno>13</brandno>
+        <tax>1</tax>
+        <delivery_type>3</delivery_type>
+        <keyword><![CDATA[고도, 고도몰, 고도소프트]]></keyword>
+        <strprice><![CDATA[]]></strprice>
+        <shortdesc><![CDATA[]]></shortdesc>
+        <longdesc><![CDATA[	상세설명]]></longdesc>
+        <mlongdesc><![CDATA[]]></mlongdesc>
+        <img_i><![CDATA[http://s4devhn.godo.co.kr/shop/data/goods/1380184104871i0.jpg]]></img_i>
+        <img_s><![CDATA[http://s4devhn.godo.co.kr/shop/data/goods/1380184716120s0.jpg]]></img_s>
+        <img_m idx="1"><![CDATA[http://s4devhn.godo.co.kr/shop/data/goods/1380184104513l0.jpg]]></img_m>
+        <img_m idx="2"><![CDATA[http://s4devhn.godo.co.kr/shop/data/goods/13801841042l1.jpg]]></img_m>
+        <img_l idx="1"><![CDATA[http://s4devhn.godo.co.kr/shop/data/goods/1380184104978m0.jpg]]></img_l>
+        <img_l idx="2"><![CDATA[http://s4devhn.godo.co.kr/shop/data/goods/1380184104432m1.jpg]]></img_l>
+        <img_mobile><![CDATA[]]></img_mobile>
+        <memo><![CDATA[]]></memo>
+        <icon><![CDATA[1|2|4|128]]></icon>
+        <open>1</open>
+        <runout>0</runout>
+        <optnm><![CDATA[색상|사이즈]]></optnm>
+        <opttype>single</opttype>
+        <opt1kind>img</opt1kind>
+        <opt2kind>img</opt2kind>
+        <addoptnm><![CDATA[깔창^^S|선물포장^^S|사은품^^S|이니셜^^I]]></addoptnm>
+        <ex_title><![CDATA[제질|특성||||]]></ex_title>
+        <ex1><![CDATA[모직]]></ex1>
+        <ex2><![CDATA[드라이 필수]]></ex2>
+        <ex3><![CDATA[]]></ex3>
+        <ex4><![CDATA[]]></ex4>
+        <ex5><![CDATA[]]></ex5>
+        <ex6><![CDATA[]]></ex6>
+        <relationis>0</relationis>
+        <relation><![CDATA[]]></relation>
+        <usestock><![CDATA[]]></usestock>
+        <totstock>600</totstock>
+        <useblog><![CDATA[]]></useblog>
+        <launchdt><![CDATA[2013-09-13]]></launchdt>
+        <inpk_dispno><![CDATA[]]></inpk_dispno>
+        <inpk_prdno><![CDATA[]]></inpk_prdno>
+        <inpk_regdt><![CDATA[0000-00-00 00:00:00]]></inpk_regdt>
+        <inpk_moddt><![CDATA[0000-00-00 00:00:00]]></inpk_moddt>
+        <goods_delivery>2800</goods_delivery>
+        <use_emoney>1</use_emoney>
+        <min_ea>1</min_ea>
+        <max_ea>10</max_ea>
+        <open_mobile>0</open_mobile>
+        <detailView>y</detailView>
+        <todaygoods>n</todaygoods>
+        <use_stocked_noti>1</use_stocked_noti>
+        <extra_info><![CDATA[{"1":{"title":"제품 소재","desc":"상세설명 별도표기","inpk_code":"","inpk_type":""},"2":{"title":"색상","desc":"상세설명 별도표기","inpk_code":"","inpk_type":""},"3":{"title":"치수","desc":"상세설명 별도표기","inpk_code":"","inpk_type":""},"4":{"title":"제탁방법 및 취급시 주의사항","desc":"상세설명 별도표기","inpk_code":"","inpk_type":""}}]]></extra_info>
+        <color><![CDATA[#97D0E8#3030F8]]></color>
+        <model_name><![CDATA[고도몰]]></model_name>
+        <goods_status>N</goods_status>
+        <goods_price>17800</goods_price>
+        <goods_supply>12000</goods_supply>
+        <goods_consumer>19000</goods_consumer>
+        <provider_price>0</provider_price>
+        <use_option>1</use_option>
+        <option_name><![CDATA[색상|사이즈]]></option_name>
+        <sales_unit><![CDATA[]]></sales_unit>
+        <use_goods_discount>0</use_goods_discount>
+        <manufacture_date><![CDATA[2013-09-13]]></manufacture_date>
+        <effective_date_start><![CDATA[2013-09-13]]></effective_date_start>
+        <effective_date_end><![CDATA[2014-09-12]]></effective_date_end>
+        <use_only_adult>0</use_only_adult>
+        <use_external_video>0</use_external_video>
+        <external_video_url><![CDATA[]]></external_video_url>
+        <external_video_width><![CDATA[]]></external_video_width>
+        <external_video_size_type>0</external_video_size_type>
+        <external_video_height><![CDATA[]]></external_video_height>
+        <exclude_member_discount><![CDATA[]]></exclude_member_discount>
+        <exclude_member_reserve><![CDATA[]]></exclude_member_reserve>
+        <goods_reserve>120</goods_reserve>
+        <option_value><![CDATA[red, pink, sky blue|90,100]]></option_value>
+        <delivery_method><![CDATA[택배]]></delivery_method>
+        <delivery_area><![CDATA[전국]]></delivery_area>
+        <image_attach_method>file</image_attach_method>
+        <trend_code><![CDATA[]]></trend_code>
+        <buyable>1</buyable>
+        <buyable_member_group><![CDATA[]]></buyable_member_group>
+        <sales_range_start>1379044800</sales_range_start>
+        <sales_range_end>1380517259</sales_range_end>
+        <option_data idx="1">
+            <opt1>red</opt1>
+            <opt2>90</opt2>
+            <price>17800</price>
+            <consumer>0</consumer>
+            <supply>0</supply>
+            <reserve>120</reserve>
+            <stock>100</stock>
+            <opt1img><![CDATA[]]></opt1img>
+            <opt1icon><![CDATA[]]></opt1icon>
+            <opt2icon><![CDATA[]]></opt2icon>
+            <link>1</link>
+            <optno><![CDATA[]]></optno>
+            <pchsno>0</pchsno>
+            <go_is_deleted>0</go_is_deleted>
+            <go_is_display>1</go_is_display>
+            <go_sort>0</go_sort>
+        </option_data>
+        <option_data idx="2">
+            <opt1>red</opt1>
+            <opt2>100</opt2>
+            <price>17800</price>
+            <consumer>0</consumer>
+            <supply>0</supply>
+            <reserve>120</reserve>
+            <stock>100</stock>
+            <opt1img><![CDATA[]]></opt1img>
+            <opt1icon><![CDATA[]]></opt1icon>
+            <opt2icon><![CDATA[]]></opt2icon>
+            <link>0</link>
+            <optno><![CDATA[]]></optno>
+            <pchsno>0</pchsno>
+            <go_is_deleted>0</go_is_deleted>
+            <go_is_display>1</go_is_display>
+            <go_sort>0</go_sort>
+        </option_data>
+        <option_data idx="3">
+            <opt1>pink</opt1>
+            <opt2>90</opt2>
+            <price>18000</price>
+            <consumer>0</consumer>
+            <supply>0</supply>
+            <reserve>130</reserve>
+            <stock>100</stock>
+            <opt1img><![CDATA[]]></opt1img>
+            <opt1icon><![CDATA[]]></opt1icon>
+            <opt2icon><![CDATA[]]></opt2icon>
+            <link>0</link>
+            <optno><![CDATA[]]></optno>
+            <pchsno>0</pchsno>
+            <go_is_deleted>0</go_is_deleted>
+            <go_is_display>1</go_is_display>
+            <go_sort>0</go_sort>
+        </option_data>
+        <option_data idx="4">
+            <opt1>pink</opt1>
+            <opt2>100</opt2>
+            <price>18000</price>
+            <consumer>0</consumer>
+            <supply>0</supply>
+            <reserve>130</reserve>
+            <stock>100</stock>
+            <opt1img><![CDATA[]]></opt1img>
+            <opt1icon><![CDATA[]]></opt1icon>
+            <opt2icon><![CDATA[]]></opt2icon>
+            <link>0</link>
+            <optno><![CDATA[]]></optno>
+            <pchsno>0</pchsno>
+            <go_is_deleted>0</go_is_deleted>
+            <go_is_display>1</go_is_display>
+            <go_sort>0</go_sort>
+        </option_data>
+        <option_data idx="5">
+            <opt1><![CDATA[sky blue]]></opt1>
+            <opt2>90</opt2>
+            <price>16000</price>
+            <consumer>0</consumer>
+            <supply>0</supply>
+            <reserve>110</reserve>
+            <stock>100</stock>
+            <opt1img><![CDATA[]]></opt1img>
+            <opt1icon><![CDATA[]]></opt1icon>
+            <opt2icon><![CDATA[]]></opt2icon>
+            <link>0</link>
+            <optno><![CDATA[]]></optno>
+            <pchsno>0</pchsno>
+            <go_is_deleted>0</go_is_deleted>
+            <go_is_display>1</go_is_display>
+            <go_sort>0</go_sort>
+        </option_data>
+        <option_data idx="6">
+            <opt1><![CDATA[sky blue]]></opt1>
+            <opt2>100</opt2>
+            <price>16000</price>
+            <consumer>0</consumer>
+            <supply>0</supply>
+            <reserve>110</reserve>
+            <stock>100</stock>
+            <opt1img><![CDATA[]]></opt1img>
+            <opt1icon><![CDATA[]]></opt1icon>
+            <opt2icon><![CDATA[]]></opt2icon>
+            <link>0</link>
+            <optno><![CDATA[]]></optno>
+            <pchsno>0</pchsno>
+            <go_is_deleted>0</go_is_deleted>
+            <go_is_display>1</go_is_display>
+            <go_sort>0</go_sort>
+        </option_data>
+        <add_option_data idx="1">
+            <step>0</step>
+            <opt>1cm깔창</opt>
+            <addprice>2000</addprice>
+            <stats>1</stats>
+            <type>S</type>
+        </add_option_data>
+        <add_option_data idx="2">
+            <step>0</step>
+            <opt>2cm깔창</opt>
+            <addprice>2000</addprice>
+            <stats>1</stats>
+            <type>S</type>
+        </add_option_data>
+        <add_option_data idx="3">
+            <step>1</step>
+            <opt>박스포장</opt>
+            <addprice>1500</addprice>
+            <stats>1</stats>
+            <type>S</type>
+        </add_option_data>
+        <add_option_data idx="4">
+            <step>2</step>
+            <opt>볼펜</opt>
+            <addprice>0</addprice>
+            <stats>1</stats>
+            <type>S</type>
+        </add_option_data>
+        <add_option_data idx="5">
+            <step>2</step>
+            <opt>형광펜</opt>
+            <addprice>0</addprice>
+            <stats>1</stats>
+            <type>S</type>
+        </add_option_data>
+        <add_option_data idx="6">
+            <step>0</step>
+            <opt>20</opt>
+            <addprice>500</addprice>
+            <stats>1</stats>
+            <type>I</type>
+        </add_option_data>
+    </goods_data>
+</data>
