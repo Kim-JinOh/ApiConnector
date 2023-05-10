@@ -2,10 +2,11 @@
 
 namespace App\Domain;
 
+use App\Interfaces\XmlParsable;
 use App\Interfaces\XmlTranslatorInterface;
 use SimpleXMLElement;
 
-class GodoProduct implements XmlTranslatorInterface
+class GodoProduct implements XmlParsable
 {
     public string $goods_data;
     public string $goods_category;
@@ -16,13 +17,15 @@ class GodoProduct implements XmlTranslatorInterface
     public string $maker;
     public int $brandno;
     public string $tax;
+    #[NotParseXml]
+    public string $test;
 
     public function toXml()
     {
         return null;
     }
 
-    public function fromXml(SimpleXMLElement $xml)
+    public function fromXml(string $xml)
     {
         $goods_data = $xml->goods_data;
         $temp = $goods_data->getChildren();

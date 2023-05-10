@@ -6,9 +6,9 @@ use App\Domain\Header;
 
 interface RequestInterface
 {
-    public function getHeader(): Header;
+    public function getUrl(): string;
+
+    public function getHeader(): array;
 
     public function getBody();
-
-    public function getMethod():string;
 }

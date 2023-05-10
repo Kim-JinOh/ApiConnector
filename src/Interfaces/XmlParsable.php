@@ -4,8 +4,8 @@ namespace App\Interfaces;
 
 use SimpleXMLElement;
 
-interface XmlTranslatorInterface
+interface XmlParsable
 {
     public function toXml();
-    public function fromXml(SimpleXMLElement $xml);
+    public function fromXml(string $xml);
 }

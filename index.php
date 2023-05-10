@@ -2,13 +2,9 @@
 require 'vendor/autoload.php';
 
 use App\Domain\GodoProduct;
+use App\Utility\XmlParser;
 
-$product = new GodoProduct();
-// 객체를 JSON으로 변환
-// XML 파일 경로
-$xmlFile = 'save-sample.xml';
+$xml = simplexml_load_file("./save-sample.xml");
+$parsed = XmlParser::parse($xml);
 
-// XML 파일 읽기
-$xml = simplexml_load_file($xmlFile);
-
-$product->fromXml($xml);
+$a =123;
