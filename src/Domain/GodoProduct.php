@@ -17,7 +17,6 @@ class GodoProduct implements XmlParsable
     public string $maker;
     public int $brandno;
     public string $tax;
-    #[NotParseXml]
     public string $test;
 
     public function toXml()
